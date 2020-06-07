@@ -21,7 +21,6 @@ __pycache__/
 /eggs/
 /lib/
 /lib64/
-/output/
 /inference_model/
 /parts/
 /sdist/
